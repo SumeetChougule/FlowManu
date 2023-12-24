@@ -10,7 +10,7 @@ The dataset used in this project is from a Kaggle project and aims to predict fa
 
 ## Data Source
 
-The data was collected from an actual production line near Detroit, Michigan. For more details and to access the dataset, refer to the [Kaggle project](#https://www.kaggle.com/datasets/supergus/multistage-continuousflow-manufacturing-process).
+The data was collected from an actual production line near Detroit, Michigan. For more details and to access the dataset, refer to the [Kaggle project](https://www.kaggle.com/datasets/supergus/multistage-continuousflow-manufacturing-process).
 
 ## Project Structure
 
