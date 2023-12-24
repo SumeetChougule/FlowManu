@@ -1,0 +1,14 @@
+name: manufacturing_process
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - ipykernel
+  
